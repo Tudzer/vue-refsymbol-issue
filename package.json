@@ -1,0 +1,17 @@
+{
+  "name": "vue-refsymbol-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.19"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
